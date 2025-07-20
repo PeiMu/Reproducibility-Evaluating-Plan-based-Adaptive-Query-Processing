@@ -1,0 +1,7 @@
+matplotlib==3.10.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.1
+openpyxl==3.1.5
+seaborn==0.13.2
+brokenaxes==0.6.2
