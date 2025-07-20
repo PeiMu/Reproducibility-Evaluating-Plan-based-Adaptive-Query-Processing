@@ -244,6 +244,7 @@ Please feel free to contact us by email or report any issues if you encounter a 
 # prepare python environment
 cd scripts
 conda create -n eval_aqp python=3.10
+# or you can create a venv by `bash ./installSystemDependencies.sh`
 conda activate eval_aqp
 pip3 install -r requirements.txt
 python3 experimental_figures.py # it's okay to have some warnings about `brokenaxes`
