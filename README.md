@@ -4,7 +4,7 @@
 
 #### Source Code of Systems
 - Repository: AQP-DuckDB (https://anonymous.4open.science/r/duckdb-5319/README.md)
-- Repository: AQP-PostgreSQL (https://anonymous.4open.science/r/PostgreSQL-12\_3-8A0F/README)
+- Repository: AQP-PostgreSQL (https://anonymous.4open.science/r/PostgreSQL-12_3-8A0F/README)
 
 #### Source code of Benchmarks and Datasets
 - Repository: JOB benchmark (https://anonymous.4open.science/r/join-order-benchmark-BA30/README.md)
