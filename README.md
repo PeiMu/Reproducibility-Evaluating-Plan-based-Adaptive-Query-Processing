@@ -184,9 +184,9 @@ pg_stop
 #### DuckDB
 ```bash
 # stay in DSB4AQP/scripts; note to use vanilla DuckDB to generate .db files.
-bash ./prepare_dsb.sh Official 10
+bash ./prepare_duckdb.sh 10
 cp dsb_10.db duckdb_measure_dir
-# OR bash ./prepare_dsb.sh Official 100
+# OR bash ./prepare_duckdb.sh 100
 # OR cp dsb_100.db duckdb_measure_dir
 ```
 
